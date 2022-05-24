@@ -17,11 +17,9 @@ You will lose the game if the ghost collides with you or if you fall off the maz
 To exit the game, navigate to Main Menu and click on quit game.
 
 Requirements of the game:
-Unreal Engine 5
-
-A dedicated graphics card (for better gameplay)
-
-Keyboard and a mouse
+1. Unreal Engine 5
+2. A dedicated graphics card (for better gameplay)
+3. Keyboard and a mouse
 
 Instructions to play the game:
 1. Download the file from the provided link.
@@ -31,12 +29,15 @@ Instructions to play the game:
 
 
 Game Controls:
+
 Controls are similar to a third person game.
 
-keyboard bindings: 	 W -> move forward
-			 A -> move towards left
-			 S -> move backward
-			 D -> move towards right
-			 Spacebar -> to make the character jump over walls (Added feature)
+keyboard bindings: 	 
+1. W -> move forward
+2. A -> move towards left
+3. S -> move backward
+4. D -> move towards right
+5. Spacebar -> to make the character jump over walls (Added feature)
+6. Left shift -> increase speed of PacMan
 
 just like a third person game character, the mouse is used to move the camera and change the angle.
