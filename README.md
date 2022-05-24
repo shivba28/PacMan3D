@@ -18,7 +18,9 @@ To exit the game, navigate to Main Menu and click on quit game.
 
 Requirements of the game:
 Unreal Engine 5
+
 A dedicated graphics card (for better gameplay)
+
 Keyboard and a mouse
 
 Instructions to play the game:
@@ -30,7 +32,8 @@ Instructions to play the game:
 
 Game Controls:
 Controls are similar to a third person game.
-keyboard bindings: W -> move forward
+
+keyboard bindings: 	 W -> move forward
 			 A -> move towards left
 			 S -> move backward
 			 D -> move towards right
