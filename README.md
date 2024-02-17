@@ -1,9 +1,11 @@
+# PacMan3D
+Created by: Shivba Pawar
 
 [Pacman 3D Demo.webm](https://github.com/shivba28/PacMan3D/assets/72241390/fc11df37-ba2a-48b6-acb7-78eb511a90e4)
 
-# PacMan3D
 
-Created by: Shivba Pawar
+
+
 
 Abstract:
 Pac-Man is one of the most popular game in the world.
